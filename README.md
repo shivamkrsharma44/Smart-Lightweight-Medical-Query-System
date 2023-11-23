@@ -1,1 +1,2 @@
-# Smart-Lightweight-Medical-Query-System
+# Smart Lightweight Medical Query System
+ 
